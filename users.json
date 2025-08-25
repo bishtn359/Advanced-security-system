@@ -1,0 +1,20 @@
+{
+    "admin": {
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "failed_attempts": 0,
+        "locked": false,
+        "lock_time": null
+    },
+    "rohit": {
+        "password": "7b35cc23be7ea6565859c6d94be97c3a0255ab92fb23e3ed40f369e7bf50a0aa",
+        "email": "rohitman9876@gmail.com",
+        "failed_attempts": 0,
+        "locked": false
+    },
+    "rohit12": {
+        "password": "4320472dca0d474b698d34e00ea152eae7c4fe91290b6745c78ed67b4b0551b4",
+        "email": "rohit@gmail",
+        "failed_attempts": 0,
+        "locked": false
+    }
+}
