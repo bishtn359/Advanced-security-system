@@ -54,11 +54,8 @@ A secure desktop application built with Python, Tkinter, and cryptography librar
 
 ## Author
 
-Rohit Singh  
-Email: rohithitman9876@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/rohit-singh-27b77b263/)  
-[GitHub](https://github.com/ROHITSINGHB)  
-
+Narendra Singh Bisht 
+Email: bishtn359@gmail.com  
 ## License
 
 This project is licensed under the MIT License.
